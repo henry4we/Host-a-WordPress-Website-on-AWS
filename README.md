@@ -6,7 +6,8 @@ This project demonstrates how to host a WordPress website on AWS using various s
 
 ## Architecture Diagram
 
-![AWS WordPress Architecture](2._Host_a_WordPress_Website_on_AWS.png)
+![Alt text](vpc.png)![image](https://github.com/user-attachments/assets/07b2d6a7-3a81-4e95-9051-4f992819801b)
+
 
 ## Key Features
 
