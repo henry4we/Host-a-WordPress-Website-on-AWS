@@ -167,10 +167,6 @@ chown apache:apache -R /var/www/html
 sudo service httpd restart
 ```
 
-## Repository Links
-
-- [GitHub Repository](your-github-repo-link)
-
 ## Conclusion
 
 This project provides a comprehensive overview of hosting a WordPress website on AWS, emphasizing best practices for security, scalability, and reliability. It serves as a valuable resource for anyone looking to deploy web applications in a cloud environment.
